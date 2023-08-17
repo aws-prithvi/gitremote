@@ -1,2 +1,3 @@
  this file created for local to remote 
  use git pull command
+ to push any chanes using git add command for local to remote 
